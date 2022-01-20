@@ -36,6 +36,14 @@ en la teoría y práctica.
 🔌 Si bien mis conocimientos en tecnología son principalmente los que aprendí en el bootcamp "soyHenry", considero que tengo una **FACILIDAD DE ADAPTACION** a los diferentes entornos en los que necesite aprender cosas nuevas, de echo aprender cosas nuevas y salir de mi zona de confort es algo emocionante para mí.
 
 
+<h3 align="center">Te invito a que te sumes a mi red de contactos en LinkedIn</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/gonzaqepasa/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/gonzaqepasa/" height="100" width="100" /></a>
+
+ 
+<div  align="center">
+<img align="center" alt="coding" src="http://blog.gixlg.it/images/post-images/automation/homer.gif">
+</div>
 
 
 
