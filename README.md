@@ -42,7 +42,7 @@ en la teoría y práctica.
 
  
 <div  align="center">
-<img align="center" alt="coding" src="http://blog.gixlg.it/images/post-images/automation/homer.gif">
+<img align="center" alt="coding" src="https://github.com/gonzaqepasa/gonzaqepasa/blob/main/homer.gif">
 </div>
 
 
