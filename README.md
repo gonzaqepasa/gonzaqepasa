@@ -31,7 +31,8 @@ en la teoría y práctica.
 😀 La **ACTITUD POSITIVA** es algo muy natural en mí, siempre estoy compartiendo mi buena energía con la gente que me rodea, creo profundamente que generar emociones buenas en los demás genera un comportamiento reciproco.
 
 
-🔬 El **PENSAMIENTO LOGICO** es el que muchas veces, por no decir todas, me llevo a resolver los problemas que se van presentando día a día tanto en el estudio teórico como en la práctica que lleve en estos meses.
+🔬 El **PENSAMIENTO LOGICO** es el que muchas veces, por no decir todas, me llevo a resolver los problemas que se van presentando día a día tanto en lo teórico como en lo práctica.
+
 
 🔌 Si bien mis conocimientos en tecnología son principalmente los que aprendí en el bootcamp "soyHenry", considero que tengo una **FACILIDAD DE ADAPTACION** a los diferentes entornos en los que necesite aprender cosas nuevas, de echo aprender cosas nuevas y salir de mi zona de confort es algo emocionante para mí.
 
