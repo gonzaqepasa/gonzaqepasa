@@ -24,7 +24,7 @@ en la teoría y práctica.
 
 🔆 **SOFT SKILLS**
 
-💡 Considero que soy una persona con una buena **CAPACIDAD DE APRENDISAJE**, con tan solo mirar para atrás y ver donde estaba hace unos meses, es increíble pensar que ahora estoy acá.
+💡 Considero que soy una persona con una buena **CAPACIDAD DE APRENDIZAJE**, con tan solo mirar para atrás y ver donde estaba hace unos meses, es increíble pensar que ahora estoy acá.
 
 ✨ Entiendo cuáles son los principales problemas que un Jr podría generar en un entorno de trabajo, entonces decidí enfocarme en trabajar un punto muy importante que es la **COMUNICACIÓN**, el dialogo entre equipo, el pedir ayuda si no puedo con una tarea. La amabilidad y el carisma, son cualidades que aplico en mi día a día dentro y fuera de la programación.
 
