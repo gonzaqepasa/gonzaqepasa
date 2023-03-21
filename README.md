@@ -1,4 +1,4 @@
-<img  src='https://github.com/gonzaqepasa/gonzaqepasa/blob/main/gonzaqepasa.png' >
+<img  src='https://github.com/gonzaqepasa/gonzaqepasa/blob/main/gonzaqepasaPortada.png' >
 
 
 <h1 align="center"> ¡Hola! 👋</h1>
